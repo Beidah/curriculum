@@ -449,6 +449,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [DamnedLag's solution](https://github.com/Damnedlag/blog-on-rails)
 </details>
 * [unheavenlycreature's solution](https://github.com/unheavenlycreature/blogger) - [View in browser](https://uc-blogger.herokuapp.com/)
+* [Hunter Marshall's solution](https://github.com/Beidah/odin-blogger)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
